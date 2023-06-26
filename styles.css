@@ -1,0 +1,29 @@
+.article {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f1f1f1;
+  }
+  
+  .article img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+    display: block; 
+    margin: 0 auto;
+  }
+  
+  .article h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    display: block; 
+    margin: 0 auto;
+  }
+  
+  .article p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 0;
+    display: block; 
+    margin: 0 auto;
+  }
+  
